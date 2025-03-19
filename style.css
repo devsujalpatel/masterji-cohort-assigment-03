@@ -19,6 +19,14 @@ html {
   justify-content: center;
   flex-direction: column;
 }
+h1{
+    font-size: 32px;
+    color: #fff;
+    background-color: #0000006e;
+    padding: 10px 15px;
+    border-radius: 10px;
+    margin-bottom: 50px;
+}
 
 .btn {
   padding: 10px 15px;
